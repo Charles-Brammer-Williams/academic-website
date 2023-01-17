@@ -45,7 +45,7 @@ sections:
       company_url: ""
       date_end: "2019-05-17"
       date_start: "2016-08-01"
-      description: Took honors classes and was given an award for academic excelence in the fields of Psychology
+      description: Took honors classes and was awarded for academic excellence in the fields of Psychology and Sociology
       location: Jackson, MS
       title: High school Student
     title: Experience
