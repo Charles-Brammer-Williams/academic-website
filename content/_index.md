@@ -23,7 +23,7 @@ sections:
       icon_pack: fas
       name: Photography
     title: Skills
-    
+
 - block: experience
   content:
     date_format: Jan 2006
