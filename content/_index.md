@@ -18,12 +18,12 @@ sections:
       icon: chart-line
       icon_pack: fas
       name: Statistics
-    - description: 10%
-      icon: camera-retro
-      icon_pack: fas
-      name: Photography
+    - description: Overleaf
+      icon: "overleaf"
+      icon_pack: ai
+      name: Overleaf      
     title: Skills
-
+   
 - block: experience
   content:
     date_format: Jan 2006
