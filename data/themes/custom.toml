@@ -3,7 +3,7 @@ name = "custom"
 
 [light]
   # Primary
-  primary = "#e2e0d1"
+  primary = "#2c443b"
   
   # Menu
   menu_primary = "#fff"
@@ -12,9 +12,22 @@ name = "custom"
   menu_title = "#2c443b"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "#e2e0d1"
+  home_section_even = "#e2e0d1"
 
 [dark]
+   # Primary
+  primary = "#2c443b"
+  
+  # Menu
+  menu_primary = "#2c443b"
+  menu_text = "#e2e0d1"
+  menu_text_active = "#e2e0d1"
+  menu_title = "#e2e0d1"
+
+  # Home sections
+  home_section_odd = "#2c443b"
+  home_section_even = "#2c443b"
+  
   link = "#e2e0d1"
   link_hover = "#e2e0d1"
