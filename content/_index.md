@@ -10,15 +10,15 @@ sections:
 - block: features
   content:
     items:
-    - description: 100%
+    - description: Almost all of my stats classes have used R.
       icon: r-project
       icon_pack: fab
       name: R
-    - description: 100%
+    - description: I'm most interested in Multivariate statistics, factor analysis, and mixed models
       icon: chart-line
       icon_pack: fas
       name: Statistics
-    - description: Overleaf
+    - description: I use Latex for everything that I can.
       icon: "overleaf"
       icon_pack: ai
       name: Overleaf      
