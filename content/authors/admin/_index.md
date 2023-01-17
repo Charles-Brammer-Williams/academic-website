@@ -2,22 +2,12 @@
 bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: 
 email: "chwill713@gmail.com/"
 first_name: Charles
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- 
 last_name: Williams
 organizations:
 - name: Mississippi State University
@@ -29,20 +19,21 @@ social:
   link: /#contact
 - display:
     header: true
-  icon: twitter
+- icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/chwill713
+- icon: youtube
+  icon_pack: fab
+  label: Follow me on YouTube
+  link: https://www.youtube.com/@charlesbwilliams
 - icon: github
   icon_pack: fab
   link: https://github.com/Charles-Brammer-Williams
-- icon: cv
-  icon_pack: ai
-  link: uploads/resume.pdf
 status:
   icon: 
 superuser: true
 title: Charles Brammer Williams
 ---
 
-yo
+I'm a Senior Psychology student at Mississippi State and I'm minoring in Statistics and Cognitive Science. This website is partly to blog  in a fun and unique way about what's going on in psychology, the broader STEM field, or whatever else that might be of interest, but I've also made it to show off some of the skills I've accrued to anyone that's interested. 

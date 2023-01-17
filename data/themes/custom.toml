@@ -17,7 +17,7 @@ name = "custom"
 
 [dark]
    # Primary
-  primary = "#2c443b"
+  primary = "#e2e0d1"
   
   # Menu
   menu_primary = "#2c443b"
