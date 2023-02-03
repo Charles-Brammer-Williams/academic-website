@@ -10,15 +10,15 @@ sections:
 - block: features
   content:
     items:
-    - description: Almost all of my stats classes have used R.
+    - description: 100%
       icon: r-project
       icon_pack: fab
       name: R
-    - description: I'm most interested in Multivariate statistics, factor analysis, and mixed models
+    - description: 100%
       icon: chart-line
       icon_pack: fas
       name: Statistics
-    - description: I use Latex for everything that I can.
+    - description: Overleaf
       icon: "overleaf"
       icon_pack: ai
       name: Overleaf      
@@ -36,6 +36,7 @@ sections:
       description: |2-
         Majored in Psychology and minored in Statistics and Cognitive Science.
           * Collected data using the Five Factor model form an pool of 43 undergraduates.
+          * Am currently the Vice President of the MSU Chess Club
           * Analyzed a SNAP food assistance data set of over 1.5 million observations for anomalies
       location: Starkville, MS
       title: Undergraduate Student
@@ -53,7 +54,26 @@ sections:
     columns: "2"
     
   
-
+- block: portfolio
+  content:
+    buttons:
+    - name: All
+      tag: '*'
+    - name: Deep Learning
+      tag: Deep Learning
+    - name: Other
+      tag: Demo
+    default_button_index: 0
+    filters:
+      folders:
+      - blog
+    title: Projects
+  design:
+    columns: "1"
+    flip_alt_rows: false
+    view: showcase
+  id: projects
+  
 
 - block: contact
   content:
