@@ -36,7 +36,7 @@ sections:
       description: |2-
         Majored in Psychology and minored in Statistics and Cognitive Science.
           * Collected data using the Five Factor model form an pool of 43 undergraduates.
-          * Am currently the Vice President of the MSU Chess Club
+          * I am the current Vice President for the MSU Chess Club
           * Analyzed a SNAP food assistance data set of over 1.5 million observations for anomalies
       location: Starkville, MS
       title: Undergraduate Student
