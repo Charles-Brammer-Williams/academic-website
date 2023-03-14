@@ -10,19 +10,24 @@ sections:
 - block: features
   content:
     items:
-    - description: 100%
+    - description: R is the language that I'm most familiar with since I've been using it for the past 4 years. It is also what I used to make this website using the blogdown and markdown packages! 
       icon: r-project
       icon_pack: fab
       name: R
-    - description: 100%
+    - description: It wasn't until I took experimental psychology in my sophomore year that I became obsessed with statistical methods. 
       icon: chart-line
       icon_pack: fas
       name: Statistics
-    - description: Overleaf
+    - description: I was first introduced to LaTeX by the math department here at Mississippi State but I have been using it for all my academic writing since.
       icon: "overleaf"
       icon_pack: ai
-      name: Overleaf      
+      name: Overleaf  
+    - description: Chess
+      icon: chess
+      icon_pack: custom
+      name: Chess
     title: Skills
+    
    
 - block: experience
   content:
@@ -32,7 +37,7 @@ sections:
       company_logo: MSSTATE
       company_url: "https://www.msstate.edu/"
       date_end: ""
-      date_start: "2021-01-01"
+      date_start: "2019-08-21"
       description: |2-
         Majored in Psychology and minored in Statistics and Cognitive Science.
           * Collected data using the Five Factor model form an pool of 43 undergraduates.
@@ -59,15 +64,13 @@ sections:
     buttons:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
+    - name: Blog
       tag: Demo
     default_button_index: 0
     filters:
       folders:
       - blog
-    title: Projects
+    title: Portfolio
   design:
     columns: "1"
     flip_alt_rows: false

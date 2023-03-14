@@ -12,7 +12,7 @@ last_name: Williams
 organizations:
 - name: Mississippi State University
   url: https://www.msstate.edu/
-role: Undergraduate Student
+role: Undergraduate; Psychology and Statistics
 social:
 - icon: envelope
   icon_pack: fas
@@ -36,4 +36,4 @@ superuser: true
 title: Charles Brammer Williams
 ---
 
-I'm a Senior Psychology student at Mississippi State and I'm minoring in Statistics and Cognitive Science. This website is partly to blog  in a fun and unique way about what's going on in psychology, the broader STEM field, or whatever else that might be of interest, but I've also made it to show off some of the skills I've accrued to anyone that's interested. 
+I'm a Psychology major at Mississippi State and I'm minoring in Statistics and Cognitive Science. This website is partly to blog  in a fun and unique way about academic topics, but I've also made it to show off some of the skills I've accrued to anyone that's interested. 
