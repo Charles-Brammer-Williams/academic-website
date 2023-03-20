@@ -22,7 +22,7 @@ sections:
       icon: "overleaf"
       icon_pack: ai
       name: Overleaf  
-    - description: Chess
+    - description: I am the vice president of MSU's chess club. I've been in charge of promoting the club, securing funding, and organizing events. Since starting, we've managed to increase attendance from ~8 per meeting to over 30.
       icon: chess
       icon_pack: custom
       name: Chess
@@ -40,7 +40,7 @@ sections:
       date_start: "2019-08-21"
       description: |2-
         Majored in Psychology and minored in Statistics and Cognitive Science.
-          * Collected data using the Five Factor model form an pool of 43 undergraduates.
+          * Collected data using the Five Factor model form an pool of 43 undergraduate students from Mississippi State.
           * I am the current Vice President for the MSU Chess Club
           * Analyzed a SNAP food assistance data set of over 1.5 million observations for anomalies
       location: Starkville, MS
