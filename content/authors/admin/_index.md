@@ -36,4 +36,4 @@ superuser: true
 title: Charles Brammer Williams
 ---
 
-I'm a Psychology major at Mississippi State and I'm minoring in Statistics and Cognitive Science. This website is partly to blog  in a fun and unique way about academic topics, but I've also made it to show off some of the skills I've accrued to anyone that's interested. 
+I'm a Senior Psychology major at Mississippi State and I'm minoring in Statistics and Cognitive Science. This website is partly to blog  in a fun and unique way about academic topics, but I've also made it to show off some of the skills I've accrued to anyone that's interested. 

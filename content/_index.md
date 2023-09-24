@@ -14,6 +14,10 @@ sections:
       icon: r-project
       icon_pack: fab
       name: R
+    - description: As a social scientist I of course have lots of experience working with SPSS and IBM's internal language "Syntax" Specifically I have used its AMOS software to perform Structural Eqaution Modeling
+      icon: SPSS
+      icon_pack: custom
+      name: SPSS
     - description: It wasn't until I took experimental psychology in my sophomore year that I became obsessed with statistical methods. 
       icon: chart-line
       icon_pack: fas
@@ -39,10 +43,12 @@ sections:
       date_end: ""
       date_start: "2019-08-21"
       description: |2-
-        Majored in Psychology and minored in Statistics and Cognitive Science.
-          * Collected data using the Five Factor model form an pool of 43 undergraduate students from Mississippi State.
-          * I am the current Vice President for the MSU Chess Club
+        Majored in Psychology with two minors in Statistics and Cognitive Science.
+          * Collected data using the IPIP-NEO form an pool of 43 undergraduate students.
           * Analyzed a SNAP food assistance data set of over 1.5 million observations for anomalies
+          * Worked as a research assistant for a NIH funded R15 Grant (Emotion Regulation Study) in a Clinical personality research lab
+          * Programmed and launched Alcohol and Impulsivity study using E-Prime and Amazon Turk for researchers
+          * Assisted with SPSS syntax for a peer's project on the Antagonistic Triad and Risky Sexual Behaviors 
       location: Starkville, MS
       title: Undergraduate Student
       
