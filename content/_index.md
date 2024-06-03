@@ -14,19 +14,19 @@ sections:
       icon: r-project
       icon_pack: fab
       name: R
-    - description: As a social scientist I of course have lots of experience working with SPSS and IBM's internal language "Syntax" Specifically I have used its AMOS software to perform Structural Eqaution Modeling
+    - description: As a Clinical Psych research assistant I gained lots of experience working with SPSS and IBM's internal language "Syntax" while working on lab projects.I have also used AMOS and Process to perform Structural Equation Modeling and Mediation.
       icon: SPSS
       icon_pack: custom
       name: SPSS
-    - description: It wasn't until I took experimental psychology in my sophomore year that I became obsessed with statistical methods. 
+    - description: It wasn't until I took experimental psychology in my sophomore year that I decided to start taking statistics seriously. Since then I have completed my statistics minor and have taken several graduate level statistics courses. 
       icon: chart-line
       icon_pack: fas
       name: Statistics
-    - description: I was first introduced to LaTeX by the math department here at Mississippi State but I have been using it for all my academic writing since.
+    - description: I was first introduced to LaTeX by the math department at Mississippi State and I have been using it for all my academic writing since.
       icon: "overleaf"
       icon_pack: ai
       name: Overleaf  
-    - description: I am the vice president of MSU's chess club. I've been in charge of promoting the club, securing funding, and organizing events. Since starting, we've managed to increase attendance from ~8 per meeting to over 30.
+    - description: I am the current president of MSU's chess club and was vp for 2 years before that. I've been in charge of promoting the club, securing funding, and organizing events. Since starting, we've increase attendance from ~8 per meeting to over 40 with are largest event hosting over 300.
       icon: chess
       icon_pack: custom
       name: Chess
@@ -40,21 +40,23 @@ sections:
     - company: Mississippi State University
       company_logo: MSSTATE
       company_url: "https://www.msstate.edu/"
-      date_end: ""
+      date_end: "2024-05-10"
       date_start: "2019-08-21"
       description: |2-
-        Majored in Psychology with two minors in Statistics and Cognitive Science.
+        Majored in Psychology at an R1 with two minors, one in Statistics and the other in Cognitive Science.
+          * Worked as a research assistant for a NIH funded R15 Grant (Emotion Regulation Study) in a Clinical personality research lab
+          * Assisted with preparing documents for NDA data submission.
+          * Programmed and launched Alcohol and Impulsivity study using E-Prime, Qualtrics, Cloud Research, and Amazon Turk for researchers
+          * Assisted with SPSS syntax for a peer's project on the Antagonistic Triad and Risky Sexual Behaviors
+          * Trained and mentored 6 undergraduate peers in a research lab. 
           * Collected data using the IPIP-NEO form an pool of 43 undergraduate students.
           * Analyzed a SNAP food assistance data set of over 1.5 million observations for anomalies
-          * Worked as a research assistant for a NIH funded R15 Grant (Emotion Regulation Study) in a Clinical personality research lab
-          * Programmed and launched Alcohol and Impulsivity study using E-Prime and Amazon Turk for researchers
-          * Assisted with SPSS syntax for a peer's project on the Antagonistic Triad and Risky Sexual Behaviors 
       location: Starkville, MS
       title: Undergraduate Student
       
     - company: Jackson Academy
       company_logo: JA
-      company_url: ""
+      company_url: "https://jacksonacademy.org/"
       date_end: "2019-05-17"
       date_start: "2016-08-01"
       description: Took honors classes and was awarded for academic excellence in the fields of Psychology and Sociology
@@ -65,25 +67,6 @@ sections:
     columns: "2"
     
   
-- block: portfolio
-  content:
-    buttons:
-    - name: All
-      tag: '*'
-    - name: Blog
-      tag: Demo
-    default_button_index: 0
-    filters:
-      folders:
-      - blog
-    title: Portfolio
-  design:
-    columns: "1"
-    flip_alt_rows: false
-    view: showcase
-  id: projects
-  
-
 - block: contact
   content:
     address:
@@ -96,14 +79,14 @@ sections:
     appointment_url: https://calendly.com/charles-b-williams
     autolink: true
     contact_links:
-    - icon: twitter
-      icon_pack: fab
-      link: https://twitter.com/Chwill713
-      name: DM Me
-    - icon: video
-      icon_pack: fas
-      link: https://zoom.com
-      name: Zoom Me
+    - icon: 
+      icon_pack: 
+      link: 
+      name: 
+    - icon:
+      icon_pack: 
+      link: 
+      name: 
     form:
       formspree:
         id: null

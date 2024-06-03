@@ -2,10 +2,10 @@
 date: "2016-04-27T00:00:00Z"
 external_link: https://charlesbrammerwilliams.wordpress.com/blog-2/
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: 
   focal_point: Smart
-summary: A collection of everything I wrote before creating this website in R.
+summary: The Website I used before creating this website.
 tags:
 - Demo
-title: Legacy Blogposts
+title: Legacy Website
 ---
