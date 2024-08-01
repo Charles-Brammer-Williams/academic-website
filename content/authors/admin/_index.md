@@ -34,4 +34,4 @@ title: Charles Brammer Williams
 
 I'm a recent graduate from Mississippi State with a Psychology degree and two minors in Statistics and Cognitive Science. This website has been made in R using the "Blogdown" package as developed by [Yihui Xie](https://yihui.org/). I've made this partly to talk about academic topics in a fun and unique way, but I've primarily made it to show off some of the skills I've accrued to anyone that's interested. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} CV{{< /staticref >}}.
+{{< staticref "uploads/demo_resume.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}} CV{{< /staticref >}}.
