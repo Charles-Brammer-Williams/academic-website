@@ -14,7 +14,7 @@ sections:
       icon: r-project
       icon_pack: fab
       name: R
-    - description: As a Clinical Psych research assistant I gained lots of experience working with SPSS and IBM's internal language "Syntax" while working on lab projects.I have also used AMOS and Process to perform Structural Equation Modeling and Mediation.
+    - description: As a Clinical Psych research assistant I gained lots of experience working with SPSS and IBM's internal language "Syntax" while working on lab projects.I have also used AMOS and Process to perform Structural Equation Modeling and Mediation in APA hosted workshops.
       icon: SPSS
       icon_pack: custom
       name: SPSS
